@@ -1,2 +1,2 @@
 # movie-ticketing-system
-it is movie ticket booking software 
+Book movie ticket with using booking software in c++
